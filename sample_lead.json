@@ -1,0 +1,18 @@
+[
+  {
+    "company_name": "Sunshine Solar Solutions",
+    "contact_person": "John Smith",
+    "email": "john@sunshinesolar.com",
+    "phone": "(555) 123-4567",
+    "address": "123 Solar Street",
+    "city": "San Diego",
+    "state": "CA",
+    "zip_code": "92101",
+    "website": "https://www.sunshinesolar.com",
+    "business_type": "solar_installer",
+    "services": "residential solar, commercial solar, battery storage",
+    "description": "Full-service solar installation company serving San Diego County",
+    "source_url": "https://example.com",
+    "scraped_at": "2025-07-31T10:21:57.394141"
+  }
+]
